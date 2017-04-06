@@ -1,0 +1,28 @@
+{
+  "name": "laraveltest1",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Anonymou_Chen <1262286029@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Anonymous-Chen/tchoose",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_dl",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "datatables": "^1.10.13",
+    "datatables-plugins": "^1.10.13",
+    "selectize": "^0.12.4",
+    "pickadate": "^3.5.6",
+    "font-awesome": "fontawesome#^4.7.0",
+    "clean-blog": "^1.0.1"
+  }
+}
